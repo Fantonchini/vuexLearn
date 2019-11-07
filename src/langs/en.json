@@ -1,0 +1,10 @@
+{
+    "slider": {
+        "title": "its a title",
+        "text": "its a text"
+    },
+    "header": {
+        "nav": "menu",
+        "link": "link to far away"
+    }
+}
